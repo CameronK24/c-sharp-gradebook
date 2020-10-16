@@ -1,0 +1,13 @@
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+G:\Code Projects\.NET_Course\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
